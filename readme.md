@@ -12,7 +12,7 @@
 </div>
   
 ## My Objectives
-- 💧 Im learning developpement environnement in <self-educated>
+- 💧 Im learning development in <self-educated>
 - 🌺 I create scripts in Lua for FiveM servers to improve my level
   
 ## Social media
