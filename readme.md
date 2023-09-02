@@ -1,8 +1,5 @@
-</div>
-
 <div align="center">
   
-![lcNh3aG](https://user-images.githubusercontent.com/76884751/148532733-deeb574b-7d25-40bc-aad1-d5e838760ce2.gif)
   
   
 ### Welcome! Im 
