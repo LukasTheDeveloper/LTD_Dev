@@ -7,7 +7,7 @@
 local LukasTheDev = Developer
 `
   
-[![LukasTheDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasTheDeveloper&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LukasTheDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasTheDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
